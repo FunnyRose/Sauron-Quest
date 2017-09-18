@@ -1,0 +1,19 @@
+.container {
+    width: 370px;
+}
+
+[class*="col-"] {
+    height: 30px;
+}
+
+.black {
+    background-color: black;
+}
+
+.orange {
+    background-color: coral;
+}
+
+.yellow {
+    background-color: yellow;
+}
